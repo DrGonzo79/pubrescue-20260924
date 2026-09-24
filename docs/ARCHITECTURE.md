@@ -1,0 +1,3 @@
+# Architecture
+
+The demo is a static Next.js App Router interface backed by `data/demo.json`; no upload occurs. FastAPI implements the same domain audit with Pydantic bounds, unique file validation, format-specific estimates, warnings, and tests. In production, a signed inventory manifest enters an API, metadata is persisted, and idempotent queue workers convert in isolated sandboxes. Original and output checksums plus converter version create the audit chain. A renderer generates comparison images; deterministic thresholds prioritize human review. GitHub Pages hosts only the frontend; FastAPI is source-only and not deployed.

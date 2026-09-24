@@ -1,0 +1,10 @@
+{
+  "organization": {"name":"Northfield Community School","sector":"School","owner":"Maya Chen","deadline":"2026-10-01"},
+  "files": [
+    {"id":"yearbook","name":"2024-yearbook.pub","pages":64,"mb":118.4,"fonts":7,"linkedImages":42,"risk":"high"},
+    {"id":"handbook","name":"family-handbook.pub","pages":18,"mb":12.8,"fonts":3,"linkedImages":5,"risk":"low"},
+    {"id":"newsletter","name":"fall-newsletter.pub","pages":8,"mb":7.2,"fonts":4,"linkedImages":11,"risk":"medium"},
+    {"id":"program","name":"spring-concert.pub","pages":12,"mb":16.1,"fonts":6,"linkedImages":18,"risk":"medium"}
+  ],
+  "formats":[{"id":"pdf","name":"Archival PDF","multiplier":1},{"id":"docx","name":"Editable DOCX","multiplier":1.55},{"id":"png","name":"Page images","multiplier":1.2}]
+}
